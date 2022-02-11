@@ -1,0 +1,1 @@
+run = "gcc windchill.c -o windchill.exe -lm; ./windchill.exe"
